@@ -8,6 +8,8 @@
 }
 img{
     border-radius: 25px;
+    width: 300px;
+    height: 300px;
 }
 footer{
     background-color: #0028e8;
@@ -21,9 +23,4 @@ footer{
         color: #000;
         font-family: Arial, Helvetica, sans-serif;
     }
-}
-
-img{
-    width: 300px; 
-    height: 300px
 }
